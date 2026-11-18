@@ -1,0 +1,6 @@
+dog|con cho
+
+khong co dau gach
+|nghia thieu tu
+HTML|trung tu
+bird|con chim

@@ -1,0 +1,7 @@
+cat|con meo
+cow|con bo
+cup|cai coc
+HTML|ngon ngu danh dau
+zebra|ngua van
+.NET|duoi web
+3D|khong gian 3 chieu
